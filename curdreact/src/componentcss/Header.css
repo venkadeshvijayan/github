@@ -1,0 +1,16 @@
+.firstheading{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: wheat;
+    
+}
+.licontent{
+    border: 2px solid black;
+    text-align: center;
+    margin:0.5rem;
+}
+li{
+    list-style: none;
+    font-size: 20px;
+}
